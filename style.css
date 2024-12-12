@@ -1,0 +1,43 @@
+.navbar{
+    background-color: #2d3e50;
+
+}
+.section-mg{
+    background-color: #1bbc9b;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.section{
+    background-color: #1bbc9b;
+    
+}
+.h2{
+    color: #2d3e50;   
+}
+.footer{
+    background-color: #2d3e50;
+    padding-top: 5rem;
+    padding-top: 5rem;
+    display: block;
+}
+img{
+    border-radius: 10px;
+}
+.copyright{
+    background-color: 
+    #1b252f;
+}
+#about{
+    font-size: 150px;
+    line-height: 2.5rem;
+}
+
+.heading{
+    font-size: 4rem;
+}
+.subheading{
+    padding-bottom: 80px;
+}
+a:hover{
+    color:#1bbc9b !important ;
+}
